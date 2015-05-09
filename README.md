@@ -1,2 +1,2 @@
 # tips
-Some things
+Some tips: MongoDb, Meteor (Wiki)
