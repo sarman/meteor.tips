@@ -1,2 +1,2 @@
-# meteor.tips
-Some meteorjs framework interesting things
+# tips
+Some things
